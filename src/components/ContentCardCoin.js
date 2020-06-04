@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect } from 'react'
 import CardCoin from './CardCoin'
 import Axios from 'axios'
 import Container from '@material-ui/core/Container';
